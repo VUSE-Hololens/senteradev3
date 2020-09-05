@@ -12,4 +12,8 @@ The activation function is also custom, where we say 0.3 - 0.8 is NDVI value for
 
 Start with Model1.py
 
+# demo
+
+![alt text](https://github.com/VUSE-Hololens/senteradev3/blob/master/demo1.jpg)
+
 
